@@ -23,6 +23,8 @@ sites:
     url: https://aoc2019.dhedegaard.dk
   - name: Neversink downloader
     url: https://neversink.culan.dk
+  - name: u.dhedegaard.dk
+    url: https://u.dhedegaard.dk
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   cname: status.dhedegaard.dk
