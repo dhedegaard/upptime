@@ -11,7 +11,7 @@ sites:
   - name: api.culan.dk
     url: https://api.culan.dk/graphql
     method: POST
-    body: '{ ping }'
+    body: '{ "query": "{ ping }" }'
   - name: Poetracker
     url: https://poe.culan.dk
   - name: Poetracker (API)
