@@ -28,7 +28,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "status.dhedegaard.dk"
-  introMessage: Uptime monitoring for my various projects and websites.
+  introMessage: Uptime monitoring for my various personal projects and websites.
   navbar:
     - title: Status
       href: /
