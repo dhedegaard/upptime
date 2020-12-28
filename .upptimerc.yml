@@ -4,17 +4,16 @@ repo: upptime # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
-  - name: Secret Site
-    url: $SECRET_SITE
-
+  - name: dhedegaard.dk
+    url: https://www.dhedegaard.dk
+  - name: culan.dk
+    url: https://www.culan.dk
+  - name: Poetracker
+    url: https://poe.culan.dk
+  - name: Pollen
+    url: https://pollen.dhedegaard.dk
+  - name: Youtube aggregator
+    url: https://ut.dhedegaard.dk
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   cname: status.dhedegaard.dk
