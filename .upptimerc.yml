@@ -18,6 +18,8 @@ sites:
     url: https://aoc2020.dhedegaard.dk
   - name: Advent of Code 2019
     url: https://aoc2019.dhedegaard.dk
+  - name: Neversink downloader
+    url: https://neversink.culan.dk
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   cname: status.dhedegaard.dk
