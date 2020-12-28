@@ -8,6 +8,10 @@ sites:
     url: https://www.dhedegaard.dk
   - name: culan.dk
     url: https://www.culan.dk
+  - name: api.culan.dk
+    url: https://api.culan.dk/graphql
+    method: POST
+    body: '{ ping }'
   - name: Poetracker
     url: https://poe.culan.dk
   - name: Poetracker (API)
