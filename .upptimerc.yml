@@ -10,6 +10,9 @@ sites:
     url: https://www.culan.dk
   - name: Poetracker
     url: https://poe.culan.dk
+  - name: Poetracker (API)
+    url: https://api-poe.culan.dk/data/negotiate
+    method: POST
   - name: Pollen
     url: https://pollen.dhedegaard.dk
   - name: Youtube aggregator
