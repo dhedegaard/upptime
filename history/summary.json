@@ -4,9 +4,9 @@
     "url": "https://www.dhedegaard.dk",
     "icon": "https://favicons.githubusercontent.com/www.dhedegaard.dk",
     "slug": "dhedegaard-dk",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 379,
     "timeMonth": 343,
     "timeYear": 382,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-10": 0
+    }
   },
   {
     "name": "culan.dk",
