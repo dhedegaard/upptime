@@ -58,10 +58,10 @@
     "url": "https://poe.culan.dk",
     "icon": "https://favicons.githubusercontent.com/poe.culan.dk",
     "slug": "poetracker",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 259,
@@ -69,7 +69,9 @@
     "timeWeek": 259,
     "timeMonth": 209,
     "timeYear": 259,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-03-02": 1
+    }
   },
   {
     "name": "Poetracker (API)",
@@ -166,9 +168,9 @@
     "url": "https://neversink.culan.dk",
     "icon": "https://favicons.githubusercontent.com/neversink.culan.dk",
     "slug": "neversink-downloader",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -177,7 +179,9 @@
     "timeWeek": 196,
     "timeMonth": 171,
     "timeYear": 209,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-03-02": 0
+    }
   },
   {
     "name": "u.dhedegaard.dk",
