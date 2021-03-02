@@ -58,19 +58,19 @@
     "url": "https://poe.culan.dk",
     "icon": "https://favicons.githubusercontent.com/poe.culan.dk",
     "slug": "poetracker",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 259,
-    "timeDay": 334,
-    "timeWeek": 259,
-    "timeMonth": 209,
-    "timeYear": 259,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "97.88%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.97%",
+    "time": 260,
+    "timeDay": 345,
+    "timeWeek": 272,
+    "timeMonth": 214,
+    "timeYear": 260,
     "dailyMinutesDown": {
-      "2021-03-02": 1
+      "2021-03-02": 31
     }
   },
   {
@@ -168,19 +168,19 @@
     "url": "https://neversink.culan.dk",
     "icon": "https://favicons.githubusercontent.com/neversink.culan.dk",
     "slug": "neversink-downloader",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 209,
-    "timeDay": 283,
-    "timeWeek": 196,
-    "timeMonth": 171,
-    "timeYear": 209,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "97.91%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.97%",
+    "time": 210,
+    "timeDay": 305,
+    "timeWeek": 211,
+    "timeMonth": 176,
+    "timeYear": 210,
     "dailyMinutesDown": {
-      "2021-03-02": 0
+      "2021-03-02": 30
     }
   },
   {
