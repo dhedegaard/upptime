@@ -4,19 +4,19 @@
     "url": "https://www.dhedegaard.dk",
     "icon": "https://favicons.githubusercontent.com/www.dhedegaard.dk",
     "slug": "dhedegaard-dk",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 372,
-    "timeDay": 492,
-    "timeWeek": 301,
-    "timeMonth": 345,
-    "timeYear": 372,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.33%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 373,
+    "timeDay": 455,
+    "timeWeek": 316,
+    "timeMonth": 347,
+    "timeYear": 373,
     "dailyMinutesDown": {
-      "2021-03-16": 0
+      "2021-03-16": 10
     }
   },
   {
