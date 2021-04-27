@@ -96,19 +96,19 @@
     "url": "https://pollen.dhedegaard.dk",
     "icon": "https://favicons.githubusercontent.com/pollen.dhedegaard.dk",
     "slug": "pollen",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 648,
-    "timeDay": 487,
-    "timeWeek": 620,
-    "timeMonth": 680,
-    "timeYear": 648,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.93%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
+    "time": 652,
+    "timeDay": 761,
+    "timeWeek": 679,
+    "timeMonth": 692,
+    "timeYear": 652,
     "dailyMinutesDown": {
-      "2021-04-27": 0
+      "2021-04-27": 15
     }
   },
   {
