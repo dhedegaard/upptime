@@ -96,9 +96,9 @@
     "url": "https://pollen.dhedegaard.dk",
     "icon": "https://favicons.githubusercontent.com/pollen.dhedegaard.dk",
     "slug": "pollen",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -107,7 +107,9 @@
     "timeWeek": 620,
     "timeMonth": 680,
     "timeYear": 648,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-04-27": 0
+    }
   },
   {
     "name": "Youtube aggregator",
