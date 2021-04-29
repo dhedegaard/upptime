@@ -116,19 +116,19 @@
     "url": "https://ut.dhedegaard.dk",
     "icon": "https://favicons.githubusercontent.com/ut.dhedegaard.dk",
     "slug": "youtube-aggregator",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1791,
-    "timeDay": 2100,
-    "timeWeek": 1810,
-    "timeMonth": 1862,
-    "timeYear": 1791,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.16%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 1806,
+    "timeDay": 2891,
+    "timeWeek": 2044,
+    "timeMonth": 1921,
+    "timeYear": 1806,
     "dailyMinutesDown": {
-      "2021-04-29": 0
+      "2021-04-29": 12
     }
   },
   {
