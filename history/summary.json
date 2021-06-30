@@ -99,9 +99,9 @@
     "url": "https://pollen.dhedegaard.dk",
     "icon": "https://favicons.githubusercontent.com/pollen.dhedegaard.dk",
     "slug": "pollen",
-    "status": "up",
+    "status": "down",
     "uptime": "99.48%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "96.51%",
     "uptimeMonth": "96.92%",
     "uptimeYear": "99.48%",
@@ -111,6 +111,7 @@
     "timeMonth": 3376,
     "timeYear": 1295,
     "dailyMinutesDown": {
+      "2021-06-30": 0,
       "2021-06-25": 352,
       "2021-06-20": 999,
       "2021-04-27": 15
