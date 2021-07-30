@@ -12,11 +12,6 @@ sites:
     url: https://api.culan.dk/graphql
     method: POST
     body: '{ "query": "{ ping }" }'
-  - name: Poetracker
-    url: https://poe.culan.dk
-  - name: Poetracker (API)
-    url: https://api-poe.culan.dk/data/negotiate
-    method: POST
   - name: Pollen
     url: https://pollen.dhedegaard.dk
   - name: Youtube aggregator
