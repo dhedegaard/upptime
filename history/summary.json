@@ -145,18 +145,19 @@
     "url": "https://neversink.culan.dk",
     "icon": "https://favicons.githubusercontent.com/neversink.culan.dk",
     "slug": "neversink-downloader",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.70%",
-    "uptimeYear": "99.98%",
+    "uptimeYear": "99.97%",
     "time": 379,
     "timeDay": 98,
     "timeWeek": 269,
     "timeMonth": 406,
     "timeYear": 415,
     "dailyMinutesDown": {
+      "2022-03-11": 0,
       "2022-02-24": 85,
       "2022-02-23": 46
     }
