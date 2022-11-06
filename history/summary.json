@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 360,
-    "timeDay": 547,
-    "timeWeek": 354,
-    "timeMonth": 372,
+    "timeDay": 352,
+    "timeWeek": 368,
+    "timeMonth": 377,
     "timeYear": 364,
     "dailyMinutesDown": {}
   },
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 436,
-    "timeDay": 274,
-    "timeWeek": 272,
-    "timeMonth": 238,
-    "timeYear": 403,
+    "time": 435,
+    "timeDay": 62,
+    "timeWeek": 271,
+    "timeMonth": 225,
+    "timeYear": 402,
     "dailyMinutesDown": {}
   },
   {
@@ -47,10 +47,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1556,
-    "timeDay": 1780,
-    "timeWeek": 1648,
+    "timeDay": 1483,
+    "timeWeek": 1640,
     "timeMonth": 1614,
-    "timeYear": 1586,
+    "timeYear": 1587,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 3750,
-    "timeDay": 4072,
-    "timeWeek": 3672,
-    "timeMonth": 5038,
-    "timeYear": 3882,
+    "time": 3752,
+    "timeDay": 4071,
+    "timeWeek": 3771,
+    "timeMonth": 4994,
+    "timeYear": 3884,
     "dailyMinutesDown": {
       "2021-11-11": 349
     }
@@ -84,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 358,
-    "timeDay": 226,
-    "timeWeek": 249,
-    "timeMonth": 260,
-    "timeYear": 368,
+    "time": 357,
+    "timeDay": 256,
+    "timeWeek": 254,
+    "timeMonth": 264,
+    "timeYear": 367,
     "dailyMinutesDown": {}
   },
   {
@@ -103,10 +103,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 752,
-    "timeDay": 226,
-    "timeWeek": 491,
-    "timeMonth": 874,
-    "timeYear": 872,
+    "timeDay": 171,
+    "timeWeek": 426,
+    "timeMonth": 834,
+    "timeYear": 871,
     "dailyMinutesDown": {
       "2022-09-04": 342
     }
@@ -123,9 +123,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 698,
-    "timeDay": 166,
-    "timeWeek": 872,
-    "timeMonth": 840,
+    "timeDay": 315,
+    "timeWeek": 701,
+    "timeMonth": 841,
     "timeYear": 815,
     "dailyMinutesDown": {
       "2022-09-04": 342
@@ -137,15 +137,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/neversink.culan.dk.ico",
     "slug": "neversink-downloader",
     "status": "up",
-    "uptime": "98.83%",
+    "uptime": "98.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.84%",
-    "time": 391,
-    "timeDay": 307,
-    "timeWeek": 247,
-    "timeMonth": 211,
+    "time": 390,
+    "timeDay": 309,
+    "timeWeek": 203,
+    "timeMonth": 220,
     "timeYear": 356,
     "dailyMinutesDown": {
       "2022-05-02": 139,
@@ -176,11 +176,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 5193,
-    "timeDay": 6551,
-    "timeWeek": 5684,
-    "timeMonth": 6149,
-    "timeYear": 5451,
+    "time": 5188,
+    "timeDay": 1923,
+    "timeWeek": 5425,
+    "timeMonth": 6036,
+    "timeYear": 5443,
     "dailyMinutesDown": {}
   }
 ]
