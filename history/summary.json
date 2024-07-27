@@ -41,18 +41,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.culan.dk.ico",
     "slug": "api-culan-dk",
     "status": "down",
-    "uptime": "99.92%",
+    "uptime": "99.88%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "85.00%",
-    "uptimeMonth": "96.55%",
-    "uptimeYear": "99.71%",
+    "uptimeWeek": "77.88%",
+    "uptimeMonth": "94.91%",
+    "uptimeYear": "99.58%",
     "time": 1595,
     "timeDay": 206,
     "timeWeek": 1178,
     "timeMonth": 1464,
     "timeYear": 1586,
     "dailyMinutesDown": {
-      "2024-07-27": 16,
+      "2024-07-27": 734,
       "2024-07-26": 1440,
       "2024-07-25": 56
     }
@@ -139,9 +139,9 @@
     "url": "https://neversink.culan.dk",
     "icon": "https://icons.duckduckgo.com/ip3/neversink.culan.dk.ico",
     "slug": "neversink-downloader",
-    "status": "up",
+    "status": "down",
     "uptime": "99.40%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -150,7 +150,9 @@
     "timeWeek": 203,
     "timeMonth": 167,
     "timeYear": 180,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-27": 0
+    }
   },
   {
     "name": "u.dhedegaard.dk",
