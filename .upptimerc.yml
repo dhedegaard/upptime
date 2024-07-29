@@ -8,10 +8,6 @@ sites:
     url: https://www.dhedegaard.dk
   - name: culan.dk
     url: https://www.culan.dk
-  - name: api.culan.dk
-    url: https://api.culan.dk/graphql
-    method: POST
-    body: '{ "query": "{ ping }" }'
   - name: Pollen
     url: https://pollen.dhedegaard.dk
   - name: Youtube aggregator
@@ -20,8 +16,6 @@ sites:
     url: https://aoc2020.dhedegaard.dk
   - name: Advent of Code 2019
     url: https://aoc2019.dhedegaard.dk
-  - name: Neversink downloader
-    url: https://neversink.culan.dk
   - name: u.dhedegaard.dk
     url: https://u.dhedegaard.dk
 status-website:
