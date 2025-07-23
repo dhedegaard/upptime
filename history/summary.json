@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 975,
-    "timeDay": 6616,
-    "timeWeek": 4997,
-    "timeMonth": 4888,
-    "timeYear": 1197,
+    "time": 986,
+    "timeDay": 6009,
+    "timeWeek": 4916,
+    "timeMonth": 4917,
+    "timeYear": 1213,
     "dailyMinutesDown": {}
   },
   {
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 194,
-    "timeDay": 798,
-    "timeWeek": 303,
-    "timeMonth": 242,
-    "timeYear": 198,
+    "timeDay": 550,
+    "timeWeek": 355,
+    "timeMonth": 253,
+    "timeYear": 199,
     "dailyMinutesDown": {}
   },
   {
@@ -47,10 +47,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1093,
-    "timeDay": 1120,
-    "timeWeek": 407,
-    "timeMonth": 379,
-    "timeYear": 956,
+    "timeDay": 731,
+    "timeWeek": 465,
+    "timeMonth": 389,
+    "timeYear": 952,
     "dailyMinutesDown": {}
   },
   {
@@ -65,9 +65,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 298,
-    "timeDay": 610,
-    "timeWeek": 387,
-    "timeMonth": 314,
+    "timeDay": 354,
+    "timeWeek": 342,
+    "timeMonth": 310,
     "timeYear": 282,
     "dailyMinutesDown": {}
   },
@@ -83,10 +83,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 544,
-    "timeDay": 209,
-    "timeWeek": 455,
-    "timeMonth": 589,
-    "timeYear": 562,
+    "timeDay": 392,
+    "timeWeek": 462,
+    "timeMonth": 586,
+    "timeYear": 561,
     "dailyMinutesDown": {}
   },
   {
@@ -100,11 +100,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 482,
-    "timeDay": 292,
-    "timeWeek": 540,
-    "timeMonth": 519,
-    "timeYear": 495,
+    "time": 481,
+    "timeDay": 189,
+    "timeWeek": 496,
+    "timeMonth": 514,
+    "timeYear": 494,
     "dailyMinutesDown": {}
   },
   {
@@ -112,17 +112,19 @@
     "url": "https://u.dhedegaard.dk",
     "icon": "https://icons.duckduckgo.com/ip3/u.dhedegaard.dk.ico",
     "slug": "u-dhedegaard-dk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 9428,
-    "timeDay": 9145,
-    "timeWeek": 6782,
-    "timeMonth": 8037,
-    "timeYear": 9353,
-    "dailyMinutesDown": {}
+    "time": 9410,
+    "timeDay": 254,
+    "timeWeek": 6731,
+    "timeMonth": 7735,
+    "timeYear": 9328,
+    "dailyMinutesDown": {
+      "2025-07-23": 0
+    }
   }
 ]
