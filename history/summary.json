@@ -113,18 +113,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/u.dhedegaard.dk.ico",
     "slug": "u-dhedegaard-dk",
     "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.96%",
+    "uptimeDay": "94.41%",
+    "uptimeWeek": "99.20%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.98%",
     "time": 9410,
     "timeDay": 254,
     "timeWeek": 6731,
     "timeMonth": 7735,
-    "timeYear": 9328,
+    "timeYear": 9323,
     "dailyMinutesDown": {
-      "2025-07-23": 0
+      "2025-07-24": 24,
+      "2025-07-23": 56
     }
   }
 ]
