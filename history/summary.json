@@ -13,7 +13,7 @@
     "time": 1073,
     "timeDay": 5048,
     "timeWeek": 6507,
-    "timeMonth": 5119,
+    "timeMonth": 5139,
     "timeYear": 1324,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 197,
     "timeDay": 515,
     "timeWeek": 420,
-    "timeMonth": 307,
+    "timeMonth": 300,
     "timeYear": 189,
     "dailyMinutesDown": {}
   },
@@ -49,7 +49,7 @@
     "time": 1098,
     "timeDay": 483,
     "timeWeek": 601,
-    "timeMonth": 449,
+    "timeMonth": 447,
     "timeYear": 920,
     "dailyMinutesDown": {}
   },
@@ -67,7 +67,7 @@
     "time": 285,
     "timeDay": 268,
     "timeWeek": 493,
-    "timeMonth": 324,
+    "timeMonth": 329,
     "timeYear": 286,
     "dailyMinutesDown": {}
   },
@@ -85,7 +85,7 @@
     "time": 538,
     "timeDay": 291,
     "timeWeek": 585,
-    "timeMonth": 566,
+    "timeMonth": 580,
     "timeYear": 564,
     "dailyMinutesDown": {}
   },
@@ -103,7 +103,7 @@
     "time": 474,
     "timeDay": 344,
     "timeWeek": 544,
-    "timeMonth": 548,
+    "timeMonth": 536,
     "timeYear": 497,
     "dailyMinutesDown": {}
   },
@@ -114,14 +114,14 @@
     "slug": "u-dhedegaard-dk",
     "status": "up",
     "uptime": "99.55%",
-    "uptimeDay": "0.02%",
-    "uptimeWeek": "0.00%",
+    "uptimeDay": "5.55%",
+    "uptimeWeek": "0.79%",
     "uptimeMonth": "76.99%",
     "uptimeYear": "98.08%",
     "time": 9360,
     "timeDay": 1194,
     "timeWeek": 658,
-    "timeMonth": 6535,
+    "timeMonth": 6641,
     "timeYear": 9234,
     "dailyMinutesDown": {
       "2025-07-30": 1384,
